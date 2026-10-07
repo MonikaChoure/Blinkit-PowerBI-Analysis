@@ -40,7 +40,7 @@ The dashboard analyzes:
 ## 📁 Project Files
 
 - `Blinkit_Sales_Analysis.pbix` – Power BI dashboard
-- `BlinkIT_Grocery_Data.xlsx` – Dataset used for analysis
+- `BlinkIT Grocery Data.xlsx` – Dataset used for analysis
 - `Blinkit_Dashboard.png` – Dashboard screenshot
 
 ## 💡 Key Insights
