@@ -34,14 +34,11 @@ The dashboard analyzes:
 - Average Rating
 - Overall Sales Performance
 
-## 📈 Dashboard
-
-
 ## 📁 Project Files
 
-- `Blinkit_Sales_Analysis.pbix` – Power BI dashboard
+- `BlinkitAnalysis-project.pbix` – Power BI dashboard
 - `BlinkIT Grocery Data.xlsx` – Dataset used for analysis
-- `Blinkit_Dashboard.png` – Dashboard screenshot
+- `Dashboard.png` – Dashboard screenshot
 
 ## 💡 Key Insights
 
